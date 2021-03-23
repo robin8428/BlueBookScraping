@@ -1,0 +1,7 @@
+*.class
+/bin/
+/.gradle/
+/build/
+/out/
+BlueBookScraping*.jar
+/src/main/resources/config.properties
