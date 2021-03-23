@@ -1,3 +1,3 @@
 # BlueBookScraping
 
-> Scraping tool for Klarnas internal BlueBook tool. Meant to interate over a year of timesheets to calculate overall oncall overhours.
+> Scraping utility for Klarna's internal BlueBook tool. Meant to interate over a year of timesheets to calculate the overall oncall overhours.
